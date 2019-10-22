@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! this manikanta web</h2>
+<h2>this manikanta world</h2>
 </body>
 </html>
